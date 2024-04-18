@@ -35,7 +35,7 @@ This repository showcases my React skills by implementing a verification code in
    ```
 
 ### Usage
-. Start the project:
+    Start the project:
    ```bash
    npm start
    ```
@@ -44,6 +44,12 @@ This repository showcases my React skills by implementing a verification code in
 ### Code verification Page
 After running the project locally, visit http://localhost:3000/ to access the code verification page.
 
+## Screenshot
+![Screenshot](./screenshots/code_verification_page.png)
+
 ### Order Preview Page
 After running the project locally, visit http://localhost:3000/order to access the Order Preview Page.
+
+## Screenshot
+![Screenshot](./screenshots/order_preview_page.png)
 
