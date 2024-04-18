@@ -35,7 +35,7 @@ This repository showcases my React skills by implementing a verification code in
    ```
 
 ### Usage
-. Start the project:
+   Start the project:
    ```bash
    npm start
    ```
